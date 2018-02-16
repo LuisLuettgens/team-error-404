@@ -1,0 +1,410 @@
+GET
+
+http://10.200.222.1:8080/v1/opcua/machine/info
+
+{
+    "w_Mode_Act": 0,
+    "x_Bahr_24V_okay": true,
+    "x_Bahr_Mains230V_okay": null,
+    "x_Bahr_MSS_Brake_24V_okay": true,
+    "x_Bahr_ControllerON_activated": false,
+    "x_Bahr_ControllerOff_activated": true,
+    "x_Bahr_EmergencyStop_activated": false,
+    "x_Bahr_Mains_Power_Switch_On": true,
+    "x_Bahr_BrakeResistor_Overtemperature": true,
+    "x_Bahr_MainsFilter_Overtemperature": true
+}
+
+
+http://10.200.222.1:8080/v1/opcua/module/state
+
+{
+    "xDone": false,
+    "xBusy": false,
+    "xWarning": false,
+    "xError": false,
+    "eErrorID": 0,
+    "ascErrorInfo": [
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        },
+        {
+            "xError": false,
+            "xWarning": false,
+            "eErrorID": 0,
+            "xAxisError": false,
+            "xAxisWarning": false,
+            "eAxisErrorID": 0,
+            "xDriveError": false,
+            "xDriveWarning": false,
+            "dwDriveErrorID": 0
+        }
+    ],
+    "xAxesGroupHomed": false,
+    "xInPosition": false,
+    "xSwLimitSwitchActive": false,
+    "axSwLimitSwitchActive": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "alrActPos": [``
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "alrActVel": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ]
+}
+
+
+POST
+http://10.200.222.1:8080/v1/opcua
+
+{
+"ascOpcuaProfiles": [
+{
+"id":"1",
+"lrXPos":"-200",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},{
+"id":"2",
+"lrXPos":"05",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},{
+"id":"3",
+"lrXPos":"200",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},{
+"id":"4",
+"lrXPos":"220",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},{
+"id":"5",
+"lrXPos":"225",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},{
+"id":"6",
+"lrXPos":"230",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},{
+"id":"7",
+"lrXPos":"235",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},
+{
+"id":"8",
+"lrXPos":"240",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},
+{
+"id":"9",
+"lrXPos":"244",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+},
+{
+"id":"10",
+"lrXPos":"249",
+"lrYPos":"50",
+"lrZPos":"-626",
+"lrAux1Pos": "250",
+"lrPathVel":"1000",
+"lrPathAcc":"10000",
+"lrPathDec":"10000",
+"lrBlendingRadius":"100"
+}
+],
+
+"w_Mode_Select_Opc":"10",
+"x_StartMode":"true",
+"x_AbortMode":"false",
+"x_ResetErrorOpc":"false",
+"eSelectAxisOpc":"Z",
+"x_GripperOu":"true"
+}

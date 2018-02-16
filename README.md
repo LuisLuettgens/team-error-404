@@ -1,2 +1,2 @@
-# team-error-404
-Bremen Hackathon 2017
+# Team Error 404 
+Repository für den Bremen Hackathon 2017

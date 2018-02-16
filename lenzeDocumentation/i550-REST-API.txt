@@ -1,0 +1,14 @@
+GET
+http://10.200.222.1:8085/v1/opcua/param?param=0x2D87&subparam=000
+
+331
+
+
+POST
+
+http://10.200.222.1:8085/v1/opcua
+{
+	"param":"0x2000",
+	"subParam":"001",
+	"value":0.0
+}
